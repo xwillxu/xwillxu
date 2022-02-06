@@ -17,7 +17,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwillxu&date_format=M%20j%5B%2C%20Y%5D&fire=0066DD&ring=0066DD&currStreakLabel=0066DD)](https://git.io/streak-stats))
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu)](https://github.com/xwillxu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=github_dark)
 
 ## Top repos
 ### 1st🥇

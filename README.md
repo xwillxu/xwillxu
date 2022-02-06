@@ -33,7 +33,7 @@
 
 
 ## Today
-No school! It's Saturday! Date Feb 5th, 2022
+No school! It's Sunday! Date Feb 6th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

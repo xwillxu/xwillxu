@@ -25,11 +25,15 @@
 ### 2nd🥈
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)](https://github.com/anuraghazra/github-readme-stats)
 ### 3rd🥉
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=xwillxu)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥Runner Ups🔥
 #### 4th🏅
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Spoon-Knife)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 5th🏅
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Hello-World)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Today

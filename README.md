@@ -40,6 +40,8 @@ Last School Day Of The Week! It's Friday! Date Feb 11th, 2022
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)
 
+## Oops! Didn't code for 3 days in a row!
+
 ## About Me 🙂
 My Name is: Xwill
 When I Joined Github: Sept 1st 2021

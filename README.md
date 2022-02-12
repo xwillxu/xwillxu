@@ -35,7 +35,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Hello-World)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Today
-Last School Day Of The Week! It's Friday! Date Feb 11th, 2022
+No school! It's Saturday! Date Feb 12th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

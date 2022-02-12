@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
 ![code](https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif)
-
-
 
 - 🔭 I’m currently working on Python-Arcade
 - 🌱 I’m currently learning python arcade library
@@ -21,18 +18,11 @@
 
 ## Top repos
 ### 1st🥇
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade)
 ### 2nd🥈
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)
 ### 3rd🥉
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔥Runner Ups🔥
-#### 4th🏅
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Spoon-Knife)](https://github.com/anuraghazra/github-readme-stats)
-
-#### 5th🏅
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Hello-World)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)
 
 ## Today
 No school! It's Saturday! Date Feb 12th, 2022
@@ -45,9 +35,6 @@ My Name is: Xwill
 When I Joined Github: Sept 1st 2021
 
 I like to code💻, before i was using scratch to code basic games. Now I am right now learning how to code games in python using arcade.
-
 Thats It! Hope You Have A Good Time😃😃😃!
-
-![Snake animation](https://raw.githubusercontent.com/xwillxu/xwillxu/output/github-contribution-grid-snake.svg)
 
 

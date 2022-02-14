@@ -25,7 +25,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)
 
 ## Today
-No school! It's Saturday! Date Feb 12th, 2022
+School's Today! It's Monday! Date Feb 14th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

@@ -25,11 +25,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)
 
 ## Today
-Rained In! No school! It's Thursday! Date Feb 17th, 2022
-### FYI: Everything FLOODED! Example: 
-### Before: A stream 
-### After: It's literally a RIVER!
-### Also: There is a stream surrounding a soccer field! Like 11 cm deep!
+Last Day Of School This Week! It's Friday! Date Feb 18th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

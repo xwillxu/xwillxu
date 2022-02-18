@@ -23,6 +23,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)
 ### 3rd🥉
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/xwillxu/Python-Arcade-Helping-Code)
+#### Click On This To Get Helping Code For Python Arcade Library
 
 ## Today
 Last Day Of School This Week! It's Friday! Date Feb 18th, 2022

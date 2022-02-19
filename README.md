@@ -26,7 +26,7 @@
 #### Click On This To Get Helping Code For Python Arcade Library
 
 ## Today
-Last Day Of School This Week! It's Friday! Date Feb 18th, 2022
+Last Day Of School This Week! It's Friday! Date Feb 19th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)
@@ -35,7 +35,7 @@ This is just a little deed of kindness.(Actually It's for me to get more followe
 My Name is: Xwill
 When I Joined Github: Sept 1st 2021
 
-I like to code💻, before i was using scratch to code basic games. Now I am right now learning how to code games in python using arcade.
+I like to code💻, before I was using scratch to code basic games. Now I am right now learning how to code games in python using arcade.
 Thats It! Hope You Have A Good Time😃😃😃!
 
 ### Upcoming 500 commits!

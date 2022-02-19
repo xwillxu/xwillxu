@@ -18,12 +18,12 @@
 
 ## Top repos
 ### 1st🥇
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade)](https://github.com/xwillxu/Python-Arcade)
 ### 2nd🥈
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)](https://github.com/xwillxu/inferno)
 ### 3rd🥉
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/xwillxu/Python-Arcade-Helping-Code)
-#### Click On This To Get Helping Code For Python Arcade Library
+#### Click On One Of The Repos To Go To Them
 
 ## Today
 No school! It'Saturday! Date Feb 19th, 2022

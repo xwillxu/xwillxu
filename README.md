@@ -23,7 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)](https://github.com/xwillxu/inferno)
 ### 3rd🥉
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/xwillxu/Python-Arcade-Helping-Code)
-#### Click On One Of The Repos To Go To Them
+#### Click On One Of The Repos To Go To The Repo
 
 ## Today
 No school! It'Saturday! Date Feb 19th, 2022

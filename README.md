@@ -11,7 +11,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)
 
 ## Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwillxu&date_format=M%20j%5B%2C%20Y%5D&fire=0066DD&ring=0066DD&currStreakLabel=0066DD)](https://git.io/streak-stats))
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwillxu&date_format=M%20j%5B%2C%20Y%5D&fire=0066DD&ring=0066DD&currStreakLabel=0066DD)
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=github_dark)
@@ -26,7 +26,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ## Today
-School's Today! It's Wednesday! Date Feb 23rd, 2022
+School's Today! It's Thursday! Date Feb 24th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

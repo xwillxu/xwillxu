@@ -26,7 +26,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ## Today
-School's Today! It's Thursday! Date Feb 24th, 2022
+School's Today! It's friday! Date Feb 25th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

@@ -26,7 +26,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ## Today
-School's Today! It's friday! Date Feb 25th, 2022
+No School! It's Saturday! Date Feb 26th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)
@@ -39,5 +39,6 @@ I like to code💻, before I was using scratch to code basic games. Now I am rig
 Thats It! Hope You Have A Good Time😃😃😃!
 
 ### Upcoming 500 commits!
+Planning To Finally Commit 500 times on
 
 

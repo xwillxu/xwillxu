@@ -28,6 +28,8 @@
 ## Today
 No School! It's Sunday! Date Mar 6th, 2022
 
+### Alert: Strong 100km/Hour Wind Gusts
+
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)
 

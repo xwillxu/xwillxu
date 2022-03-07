@@ -26,7 +26,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ## Today
-No School! It's Sunday! Date Mar 6th, 2022
+School's Today! It's Monday! Date Mar 7th, 2022
 
 ### Alert: Strong 100km/Hour Wind Gusts
 

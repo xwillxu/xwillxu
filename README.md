@@ -28,6 +28,8 @@
 ## Today
 No School! It's Tuesday! Date Mar 15th, 2022
 
+### Can't Belive It Has Been Snowing All Day!
+
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)
 

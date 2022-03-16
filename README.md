@@ -26,7 +26,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ## Today
-No School! It's Wendesday! Date Mar 16th, 2022
+No School! It's Wednesday! Date Mar 16th, 2022
 
 ### Can't Belive It Has Been Snowing All Day!
 

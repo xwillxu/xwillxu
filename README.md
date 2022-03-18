@@ -26,9 +26,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ## Today
-No School! It's Thursday! Date Mar 17th, 2022
-
-### It's Spring! Lots Of Sunlight(12.C)!
+No School! It's Friday! Date Mar 18th, 2022
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

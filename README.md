@@ -28,6 +28,8 @@
 ## Today
 School's Today! It's Monday! Date Mar 21st, 2022
 
+### No More Mask Mandates At School!
+
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)
 

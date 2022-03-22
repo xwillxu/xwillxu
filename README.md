@@ -26,7 +26,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ## Today
-School's Today! It's Monday! Date Mar 21st, 2022
+School's Today! It's Tuesday! Date Mar 22nd, 2022
 
 ### No More Mask Mandates At School!
 

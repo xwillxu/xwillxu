@@ -28,7 +28,7 @@
 ## Today
 No School! It's Wednesday! Date Mar 23rd, 2022
 
-### No More Mask Mandates At School!
+### Freezing Rain!
 
 ## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

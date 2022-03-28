@@ -13,6 +13,16 @@
 ## Streak
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwillxu&date_format=M%20j%5B%2C%20Y%5D&fire=0066DD&ring=0066DD&currStreakLabel=0066DD)
 
+<h3 align="left">GitHub Activity Graph:</h3>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h3 align="left">Awards and Trophies:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=deflaut)
 

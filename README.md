@@ -7,26 +7,26 @@
 - 👯 I’m looking to collaborate on open projects
 - 📫 How to reach me: By commenting on my newest commit
 
-## Stats
+### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)
 
-## Streak
+### Streak:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwillxu&date_format=M%20j%5B%2C%20Y%5D&fire=0066DD&ring=0066DD&currStreakLabel=0066DD)
 
-<h3 align="left">GitHub Activity Graph:</h3>
+### GitHub Activity Graph:
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h3 align="left">Awards and Trophies:</h3>
+### Awards and Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=deflaut)
 
-## Top repos
+### Top repos:
 ### 1st🥇
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade)](https://github.com/xwillxu/Python-Arcade)
 ### 2nd🥈
@@ -35,13 +35,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/xwillxu/Python-Arcade-Helping-Code)
 #### Click On One Of The Repos To Go To That Repo
 
-## Today
+### Today:
 No School! It's Monday! Date Mar 28th, 2022
 
-## If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
+### If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)
 
-## About Me 🙂
+### About Me 🙂:
 My Name is: Xwill
 When I Joined Github: Sept 1st 2021
 

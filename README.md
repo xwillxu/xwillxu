@@ -21,7 +21,7 @@
 
 ### Awards and Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=one-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=deflaut)

@@ -16,7 +16,7 @@
 ### GitHub Activity Graph:
 
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Awards and Trophies:

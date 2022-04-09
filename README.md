@@ -16,12 +16,12 @@
 ### GitHub Activity Graph:
 
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)]
 
 
 ### Awards and Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=one-dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=one-dark)]
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=deflaut)

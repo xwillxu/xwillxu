@@ -36,7 +36,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ### Today:
-School Today! It's Thursday! Date June 16th, 2022!
+End of School! It's Saturday! Date July 2nd, 2022!
 
 ### If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

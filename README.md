@@ -1,5 +1,7 @@
 ## Hi there 👋👋👋
 
+## Sorry for no real commits i just have no internet for the whole day!
+
 ![code](https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif)
 
 - 🔭 I’m currently working on Python-Arcade
@@ -36,7 +38,8 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ### Today:
-Start Of Summer Camp! It's Tuesday! Date July 5th, 2022!
+Summer Camp! It's Friday! Date July 8th, 2022!
+
 
 ### If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
 This is just a little deed of kindness.(Actually It's for me to get more followers)

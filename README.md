@@ -1,12 +1,4 @@
-## Hi there 👋👋👋
-
-![code](https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif)
-
-- 🔭 I’m currently working on Javascript-Phaser-Or-Colyseus
-- 🌱 I’m currently learning python arcade library
-- 👯 I’m looking to collaborate on open projects
-- 📫 How to reach me: By commenting on my newest commit
-
+# New README UPDATE SOON
 ### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)
 

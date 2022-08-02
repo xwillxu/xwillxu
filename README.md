@@ -1,8 +1,6 @@
 # New README UPDATE SOON
-### Stats:
+### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)
-
-### Streak:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xwillxu&date_format=M%20j%5B%2C%20Y%5D&fire=0066DD&ring=0066DD&currStreakLabel=0066DD)
 
 ### GitHub Activity Graph:
@@ -19,11 +17,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=deflaut)
 
 ### Top repos:
-### 1st🥇
+### 1st🥇  &  2nd🥈  &  3rd🥉
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade)](https://github.com/xwillxu/Python-Arcade)
-### 2nd🥈
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)](https://github.com/xwillxu/inferno)
-### 3rd🥉
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/xwillxu/Python-Arcade-Helping-Code)
 #### Click On One Of The Repos To Go To That Repo
 

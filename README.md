@@ -24,7 +24,7 @@
 #### Click On One Of The Repos To Go To That Repo
 
 ### Today:
-Summer Camp! It's Thursday! Date July 28th, 2022!
+Summer Camp! It's Tuesday! Date August 2nd, 2022!
 
 
 ### If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.

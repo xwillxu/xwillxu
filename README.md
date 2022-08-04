@@ -21,14 +21,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade)](https://github.com/xwillxu/Python-Arcade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=inferno)](https://github.com/xwillxu/inferno)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade-Helping-Code)](https://github.com/xwillxu/Python-Arcade-Helping-Code)
-#### Click On One Of The Repos To Go To That Repo
-
-### Today:
-Summer Camp! It's Tuesday! Date August 2nd, 2022!
-
-
-### If you Star⭐ or Follow🧍‍♂️🧍‍♂️🧍‍♂️ me then I will it will happen to you.
-This is just a little deed of kindness.(Actually It's for me to get more followers)
 
 ### About Me 🙂:
 My Name is: Xwill

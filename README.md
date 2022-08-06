@@ -1,6 +1,7 @@
 # 👋👋👋Hi There👋👋👋
 
-## New:Tobermory Vacation
+## New: Tobermory Vacation
+### day 1
 I am heading to tobermory
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)

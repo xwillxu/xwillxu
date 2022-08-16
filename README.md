@@ -1,6 +1,6 @@
 # 👋👋👋Hi There👋👋👋
 
-## New: Tobermory Vacation
+## New: Tobermory Vacatio
 ### Today, 8/6/2022
 So Far I Got To tobemory
 

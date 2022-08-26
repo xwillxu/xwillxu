@@ -13,7 +13,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=one-dark)
 
-## TLanguages
+## ToLanguages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=deflaut)
 
 ### Top repos:

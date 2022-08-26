@@ -6,7 +6,6 @@
 
 ### GitHub Activity Graph:
 
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xwillxu&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 

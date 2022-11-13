@@ -16,6 +16,7 @@ Remembrance Day Stuff Soon
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&theme=deflaut)
+I also use typescript but I don't own that repository
 
 ### Top repos:
 ### 1st🥇  &  2nd🥈  &  3rd🥉

@@ -1,6 +1,5 @@
 ## 👋👋👋Hi There👋👋👋   
 Today is November 25th, 2022
-Remembrance Day Stuff Finished
 
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)

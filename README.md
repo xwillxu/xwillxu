@@ -1,5 +1,6 @@
 ## 👋👋👋Hi There👋👋👋   
 Today is December 2nd, 2022
+23 days
 
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)

@@ -1,6 +1,6 @@
 ## 👋👋👋Hi There👋👋👋   
-Today is December 10th, 2022
-15 Days Till Christmas
+Today is December 12th, 2022
+13 Days Till Christmas
 
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)

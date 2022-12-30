@@ -1,6 +1,5 @@
+# DON'T FORGET TO CHECK OUT MY CHRISTMAS REPOSITORY!
 ## 👋👋👋Hi There👋👋👋   
-Today is December 16th, 2022
-9 Days Till Christmas
 
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=default)

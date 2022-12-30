@@ -1,4 +1,4 @@
-# 🎅🎄🤶 DON'T FORGET TO CHECK OUT MY CHRISTMAS REPOSITORY!🎅🎄🤶
+# 🎅🎄🤶 DON'T FORGET TO CHECK OUT MY CHRISTMAS REPO!🎅🎄🤶
 ## 👋👋👋Hi There👋👋👋   
 
 ### Stats & Streak:

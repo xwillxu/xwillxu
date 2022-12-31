@@ -1,4 +1,3 @@
-# 🎅🎄🤶  --PLEASE CHECK OUT MY CHRISTMAS REPO!--  🎅🎄🤶
 ## 👋👋👋Hi There👋👋👋   
 
 ### Stats & Streak:

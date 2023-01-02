@@ -8,3 +8,7 @@
 
 ### GitHub Activity Graph:
 ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xwillxu&theme=react-dark)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwillxu&layout=compact&theme=react)
+

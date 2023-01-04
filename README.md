@@ -1,6 +1,7 @@
 ## 🎉🥳😄👋✌👍🎇🎆✨🧨🌎🌠❤ WELCOME 2023 ❤🌠🌎🧨✨🎆🎇👍✌👋😄🥳🎉
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=react)
+### Sorry but github stats are down
 ![GitHub Streak](https://streak-stats.demolab.com/?user=xwillxu&theme=react)
 
 ### Awards & Trophies:

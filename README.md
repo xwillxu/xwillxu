@@ -1,5 +1,5 @@
 ## 🎉🥳😄👋✌👍🎇🎆✨🧨🌎🌠❤ WELCOME 2023 ❤🌠🌎🧨✨🎆🎇👍✌👋😄🥳🎉 Note This Will Stay Up Until Chinese New Year
-Today is January 12th 2023
+Today is January 13th 2023
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com?user=xwillxu&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2982C184&sideLabels=2982C184)

@@ -16,4 +16,7 @@ Today is January 28th 2023
 
 
 ### Bye
-![Github-Snake](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/xwillxu/xwillxu/master/main.yml&name=github-snake.svg)
+ ![Github-Snake](https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif)) <- Not mine!
+ 
+ 
+

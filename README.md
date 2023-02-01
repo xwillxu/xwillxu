@@ -16,7 +16,7 @@ Today is Febuary 1st 2023
 
 
 ### Bye
- ![Github-Snake](https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif)) <- Not mine!
+ ![Github-Snake](https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif) <- Not mine!
  
  
 

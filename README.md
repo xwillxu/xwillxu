@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Today is Febuary 3rd, 2023
+Today is Febuary 5th, 2023
 ### Stats & Streak:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com?user=xwillxu&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2982C184&sideLabels=2982C184)

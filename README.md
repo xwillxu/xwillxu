@@ -5,7 +5,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=xwillxu&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2982C184&sideLabels=2982C184)
 
 ### Awards & Trophies:
-![Awards & Trophies](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=react)
+![Awards & Trophies](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=dark_lover)
 
 ### GitHub Activity Graph:
 ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xwillxu&theme=react-dark)

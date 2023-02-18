@@ -5,12 +5,12 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=750&pause=1&vCenter=true&repeat=false&width=200&height=26&lines=Stats+%26+Streak%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=750&pause=1&vCenter=true&repeat=false&width=210&height=26&lines=Stats+%26+Streak%3A)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xwillxu&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com?user=xwillxu&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2982C184&sideLabels=2982C184)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=750&pause=1&vCenter=true&repeat=false&width=261&height=26&lines=Awards+%26+Trophies%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=750&pause=1&vCenter=true&repeat=false&width=271&height=26&lines=Awards+%26+Trophies%3A)](https://git.io/typing-svg)
 
 ![Awards & Trophies](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=dark_lover)
 

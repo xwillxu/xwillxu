@@ -20,8 +20,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade&theme=react)](https://github.com/xwillxu/Python-Arcade)
 
 
-### Bye
- ![Github-Snake](https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif) <- Not mine!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=1500&pause=1000&repeat=false&width=450&height=43&lines=Bye+%2B+GitHub+Snake(Not+mine)%3A)
+
+ ![Github-Snake](https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif)
  
  
 

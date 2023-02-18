@@ -9,12 +9,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=750&pause=1&vCenter=true&repeat=false&width=271&height=26&lines=Awards+%26+Trophies%3A)
 
 ![Awards & Trophies](https://github-profile-trophy.vercel.app/?username=xwillxu&theme=dark_lover)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=1500&pause=1000&height=43&lines=GitHub+Activity+Graph%3A)
+&
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=1500&pause=1000&repeat=false&height=43&lines=GitHub+Activity+Graph%3A)
 
 ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xwillxu&theme=react-dark)
 
-### Top Languages & Top Repo
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=1500&pause=1000&repeat=false&height=43&lines=Top+Languages+%26+Top+Repo%3A)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade&theme=react)](https://github.com/xwillxu/Python-Arcade)
 

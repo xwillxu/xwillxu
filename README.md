@@ -20,6 +20,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xwillxu&repo=Python-Arcade&theme=react)](https://github.com/xwillxu/Python-Arcade)
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=1800&pause=3600&width=450&height=43&lines=Summary+Cards%3A)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xwillxu&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xwillxu&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xwillxu&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xwillxu&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xwillxu&theme=react&utcOffset=8)
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=3600&pause=7200&width=450&height=43&lines=Bye+%2B+GitHub+Snake(Not+mine)%3A)
 
  ![Github-Snake](https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif)

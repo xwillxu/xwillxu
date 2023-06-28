@@ -12,7 +12,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=2850&pause=5700&height=43&lines=GitHub+Activity+Graph%3A)
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=xwillxu&theme=react-dark)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xwillxu&theme=react-dark)]
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&duration=3150&pause=6300&height=43&lines=Top+Languages+%26+Top+Repo%3A)
 

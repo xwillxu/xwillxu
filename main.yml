@@ -1,4 +1,10 @@
-- uses: Platane/snk@v2
+              
+- name: generate-snake-game-from-github-contribution-gri
+
+              
+  uses: Platane/snk@v3.0.0
+
+
   with:
     github_user_name: ${{ github.xwillxu }}
 
